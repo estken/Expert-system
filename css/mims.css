@@ -1,0 +1,99 @@
+body{
+	padding-top: 50px;
+	background-color: #EBEAF6;
+}
+
+
+#footers{
+	background-color: #419094;
+	color: #fff;
+	padding-top: 30px;
+	margin-top: 9.2%;
+
+}
+#footer{
+	background-color: #419094;;
+	color: #fff;
+	padding-top: 30px;
+	margin-top: 14.6%;
+
+}
+
+#center{
+    margin-top:8%;
+    
+}
+#footer p{
+		font-size:20px;
+		
+	}
+	
+
+h2{
+    text-align: center;
+}
+
+#sub{
+    background-color: #419094 !important;
+	color: #fff;
+    border:none;
+}
+form{
+    padding-right: 160px
+}
+
+#studentform{
+	display:none ;
+}
+#tbody tr td input[type='submit']{
+	height:110% !important;
+	width:100% !important;
+	border-radius:7px !important;
+	background-color: rgb(255,255,255) !important;
+	color:black !important;
+	border: none;
+}
+
+#thead tr th{
+	text-align: center !important;
+}
+#big{
+	border:1px solid black;
+}
+#firstperformance{
+	width:48%;
+	float:left;
+	display:none;
+	height:100px;
+	border:2px solid gray;
+}
+#secondperformance{
+	width:49%;
+	float:left;
+	margin-left:20px;
+	display:none;
+	height:100px;
+	border:2px solid gray;
+}
+#total{
+	width:100%;
+	display: none;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.navbar{
+	background-color:#419094;
+	color: #fff !important;
+    border:none;
+
+}
+#cont{
+	height: 390px;
+}
+
+#mims ul li a{
+    color: white !important;
+}
+#mims ul li a:hover{
+text-decoration: underline !important;
+}
